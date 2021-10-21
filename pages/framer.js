@@ -80,7 +80,7 @@ export default function test() {
     <BackgroundDiv variants={divVariants} initial="hidden" animate="visible">
       <GreetingDiv>
         <GreetH1> Hi,</GreetH1>
-        <GreetH2>&nbsp;I'm</GreetH2>
+        <GreetH2>&nbsp;I&aposm</GreetH2>
       </GreetingDiv>
       <NameSvg
         id="logo"
